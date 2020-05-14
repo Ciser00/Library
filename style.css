@@ -1,0 +1,29 @@
+p{
+  font-size: 40px;
+  text-align: center;
+}
+
+
+
+html{
+  height: 1000px;
+}
+gimg{
+  width: 300px;
+  height: 300px;
+}
+.maxwidth{
+  width: 100%;
+  length: 200px;
+}
+.imgx{
+  padding-left: 40%;
+  position: absolute;
+  z-index: 99;
+}
+.rellaxdiv{
+  padding-bottom: 200px;
+}
+glidediv > img{
+  width: 100%;
+}
